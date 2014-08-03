@@ -24,10 +24,23 @@ package org.rednillabs.dates;
 
 /**
  * Methods for manipulating Dates.
- * @author Rednil Labs
+ * @author RednilLabs.org
  *
  */
 public class Dates {
-	//Todo: pending todo.
-
+	
+	/**
+	 * Takes a java.util.Date value and returns a java.sql.Date value.
+	 * @param utilDate
+	 * @return java.sql.Date
+	 */
+	public java.sql.Date getSqlDateFromUtilDate(java.util.Date utilDate){
+		
+		java.sql.Date sqlDate = new java.sql.Date(utilDate.getTime());
+		return sqlDate;
+	}
+	
+	
+	
+	
 }
