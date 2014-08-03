@@ -1,4 +1,9 @@
-/*This file is part of RL Java Lib.
+/*	-----------------------------------------------------------------
+
+    Copyright 2014 RednilLabs.org.
+
+
+    This file is part of RL Java Lib.
 
     RL Java Lib is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -12,12 +17,14 @@
 
     You should have received a copy of the GNU General Public License
     along with Foobar.  If not, see <http://www.gnu.org/licenses/>.
+
+	-----------------------------------------------------------------
 */
 package org.rednillabs.dates;
 
 /**
  * Methods for manipulating Dates.
- * @author ed
+ * @author Rednil Labs
  *
  */
 public class Dates {
