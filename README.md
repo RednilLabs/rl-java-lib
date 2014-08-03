@@ -1,4 +1,6 @@
 rl-java-lib
 ===========
 
-General Java Library with helper classes and methods
+General Java Library with helper classes and methods.
+
+More TBD.
